@@ -91,12 +91,12 @@ Complete [The Odin Project](https://www.theodinproject.com/courses?ref=homenav) 
 
 | Courses                                                                                                                                                                         |   Status   |   Evidence   |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :--------: | :----------: |
-| Web Development 101                                                                                                                                                             |Started|              |
+| Web Development 101                                                                                                                                                             |Started|70%|
 | Ruby Programming                                                                                                                                                                |            |              |
 | Databases                                                                                                                                                                       |            |              |
 | Ruby on Rails                                                                                                                                                                   |            |              |
-| HTML and CSS                                                                                                                                                                    |            |              |
-| JavaScript                                                                                                                                                                      |            |              |
+| HTML and CSS                                                                                                                                                                    |Started|              |
+| JavaScript                                                                                                                                                                      |Started|              |
 | **Reading**                                                                                                                                                                     | **Status** | **Evidence** |
 | [Learn Enough Ruby to Be Dangerous](https://www.learnenough.com/ruby-tutorial/hello_world)                                                                                      |            |              |
 | [Ruby on Rails Tutorial](https://www.railstutorial.org/book)                                                                                                                    |            |              |
