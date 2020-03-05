@@ -87,26 +87,24 @@ A very gentle introduction, complete if feel you would benefit from it, skip if 
 
 ### Tier 0 - Web Development - Fullstack Bootcamp - App Academy Open
 
-Complete the [App Academy Open](https://open.appacademy.io/) free online Fullstack Bootcamp.
+### Web Development - Fullstack Bootcamp - The Odin Project Specialization
 
-| Courses                                                                                                                                                               |   Status   |   Evidence   |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| Welcome To Coding                                                                                                                                                     |            |              |
-| Full Stack Online - Intro to Programming                                                                                                                              |            |              |
-| Full Stack Online - Software Engineering Foundations                                                                                                                  |            |              |
-| Full Stack Online - Ruby                                                                                                                                              |            |              |
-| Full Stack Online - SQL                                                                                                                                               |            |              |
-| Full Stack Online - Rails                                                                                                                                             |            |              |
-| Full Stack Online - JavaScript                                                                                                                                        |            |              |
-| Full Stack Online - React                                                                                                                                             |            |              |
-| Full Stack Online - Full Stack Project                                                                                                                                |            |              |
-| Full Stack Online - MERN Stack Curriciulum                                                                                                                            |            |              |
-| Full Stack Online - Job Search                                                                                                                                        |            |              |
-| Full Stack Online - Docker                                                                                                                                            |            |              |
-| Full Stack Online - GraphQl                                                                                                                                           |            |              |
-| Full Stack Online - Data Structures and Algorithms                                                                                                                    |            |              |
-| **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
-| Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |
+Complete [The Odin Project](https://www.theodinproject.com/courses?ref=homenav) free online Fullstack Bootcamp. You may elect to complete this specialization only once.
+
+| Courses                                                                                                                                                                         |   Status   |   Evidence   |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :--------: | :----------: |
+| Web Development 101                                                                                                                                                             |Started|              |
+| Ruby Programming                                                                                                                                                                |            |              |
+| Databases                                                                                                                                                                       |            |              |
+| Ruby on Rails                                                                                                                                                                   |            |              |
+| HTML and CSS                                                                                                                                                                    |            |              |
+| JavaScript                                                                                                                                                                      |            |              |
+| **Reading**                                                                                                                                                                     | **Status** | **Evidence** |
+| [Learn Enough Ruby to Be Dangerous](https://www.learnenough.com/ruby-tutorial/hello_world)                                                                                      |            |              |
+| [Ruby on Rails Tutorial](https://www.railstutorial.org/book)                                                                                                                    |            |              |
+| [Learn Enough Action Cable to Be Dangerous](https://www.learnenough.com/action-cable-tutorial)                                                                                  |            |              |
+| **Capstone**                                                                                                                                                                    | **Status** | **Evidence** |
+| Create a website highlighting what you learned and built during this specialization. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |
 
 ### Tier 1 - Getting Started
 
